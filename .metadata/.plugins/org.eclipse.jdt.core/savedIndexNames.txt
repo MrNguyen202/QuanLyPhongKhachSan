@@ -1,0 +1,8 @@
+INDEX VERSION 1.132+D:\Hk4\HSK_CNJava\DeTai\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+4231716181.index
+2279895380.index
+3948963129.index
+1211667937.index
+1696264553.index
+1673417361.index
